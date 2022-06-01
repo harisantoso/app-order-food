@@ -1,0 +1,11 @@
+app-order-food
+
+Full Stack Food Ordering App Tutorial React Next.js and MongoDB
+
+dimulai 31-5-2022
+sampai video 9:45
+selesai --2022
+
+Catatan
+- runing app
+ > yarn dev
